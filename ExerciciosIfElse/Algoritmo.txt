@@ -1,0 +1,13 @@
+Exercio 1 - Algoritmo
+1. ler a primeira variável (valor1);
+
+2. ler a segunda variável (valor2);
+
+3. se valor1 >>>> valor2 - então {
+    escreva o (valor1 é maior)
+
+    }
+senão {
+    escreva (valor2 é maior); 
+} 
+
